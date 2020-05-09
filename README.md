@@ -6,5 +6,6 @@ A Two-Stage Multi-Objective Optimization of Erasure Coding in Overlay Networks: 
 	
 ## Design and Contribution credits:
 	1.Nishant Saurabh (PhD Researcher,University of Innsbruck, Alpen-Adria Universitat Klagenfurt, Austria)
+	2.Dragi Kimovski (PostDoc, Alpen-Adria Universitat Klagenfurt, Austria )
 	2.Contact: nishant(at)itec.aau.at
 
