@@ -1,5 +1,10 @@
-### MOE-Erasure
+# MOE-Erasure
 A Two-stage multi-objective optimization of Erasure Coding in Overlay Networks using JMetal
 
 ## Paper Citation:
-	A Two-Stage Multi-Objective Optimization of Erasure Coding in Overlay Networks: Nishant Saurabh, Dragi Kimovski, Francesco Gaetano, Radu Prodan. IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing, CCGRID 2017.
+A Two-Stage Multi-Objective Optimization of Erasure Coding in Overlay Networks: Nishant Saurabh, Dragi Kimovski, Francesco Gaetano, Radu Prodan. IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing, CCGRID 2017.
+	
+## Design and Contribution credits:
+Nishant Saurabh (PhD Researcher,University of Innsbruck, Alpen-Adria Universitat Klagenfurt, Austria)
+Contact: nishant@itec.aau.at
+
